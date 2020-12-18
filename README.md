@@ -1,4 +1,4 @@
-# Potential Recruiters (Internship Camp E-Cell)
+# Finding Potential Recruiters (Internship Camp E-Cell)
 This is a wb scrapper devloped in python using pacakges like request and beautiful soup to scap the data from the website Internshala. 
 The project also uses pandas to filter and clean the data, once the data is filtered and cleaned it is automatically exported to .xls format 
 The objective behind this data scrapper was to find potential recruiting companies for hiring of Interns at ICamp2020, one of the biggest Internship Fair
